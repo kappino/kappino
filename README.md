@@ -3,8 +3,8 @@
     👨‍💻 I'm a 25-year-old developer with a passion for creating efficient and innovative solutions
     🔭 Currently working on my university thesis focused on emotion recognition using wearable devices
     🌱 I’m expanding my knowledge in machine learning, data science, and parallel computing
-    💬 Ask me about Java, Python, backend development, and PyTorch
-    📫 How to reach me: [Your Email]
+    💬 Ask me about Java, Python, C++, C
+    📫 How to reach me: crescenzo.esposito@outlook.it
 
 </p>
 
