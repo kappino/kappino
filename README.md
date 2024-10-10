@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Crescenzo Esposito</h1> <h3 align="center">A passionate software developer with a focus on backend and data science</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=kappino&label=Profile%20views&color=0e75b6&style=plastic" alt="kappino" /> </p>
+<h1 align="center">Hi 👋, I'm Crescenzo Esposito</h1> <h3 align="center">A computer science student specializing in backend development and data science</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=kappino&label=Profile%20views&color=0e75b6&style=plastic" alt="kappino" /> </p>
 
-    👨‍💻 I'm a 25-year-old developer with a passion for creating efficient and innovative solutions
-    🔭 Currently working on my university thesis focused on emotion recognition using wearable devices
-    🌱 I’m expanding my knowledge in machine learning, data science, and parallel computing
-    💬 Ask me about Java, Python, C++, C
-    📫 How to reach me: crescenzo.esposito@outlook.it
+👨‍💻 I'm a 25-year-old computer science student, currently in the final stages of completing my degree
+🔭 My thesis focuses on emotion recognition using wearable devices, combining machine learning and sensor data
+🌱 I'm continuously expanding my knowledge in machine learning, data science, and parallel computing
+💬 Feel free to ask me about Java, Python, C++, and C
+📫 You can reach me at: crescenzo.esposito@outlook.it
 
 </p>
 
