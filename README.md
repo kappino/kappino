@@ -1,29 +1,156 @@
-<h1 align="center">Hi 👋, I'm Crescenzo Esposito</h1> <h4 align="center" style="font-weight: normal;">M.Sc. Candidate in Cybersecurity & Computer Science | Researcher</h4> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kappino&label=Profile%20views&color=0e75b6&style=plastic" alt="kappino" /> </p>
 <div align="center">
-  <p><i>Building secure, scalable, and research-driven backend architectures.</i></p>
+
+  <!-- Header with Hello Chibi Avatar -->
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/Hello.png" width="135" alt="Crescenzo Avatar" />
+      </td>
+      <td align="left" valign="middle">
+        <h1>Hi 👋, I'm <span style="color: #4cc9f0;">Crescenzo Esposito</span></h1>
+        <p>
+          <b>M.Sc. Student in Cybersecurity @ University of Salerno</b> • <b>Graduate Researcher (PNRR Age-IT)</b><br/>
+          <i>Architecting Secure-by-Design IoT Systems, Robotics Middleware (ROS2) & Distributed Trust</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Call-to-action & Social Badges -->
+  <p>
+    <a href="https://kappino.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-kappino.github.io-4cc9f0?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/crescenzo-esposito" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Crescenzo_Esposito-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="mailto:crescenzo.esposito@outlook.it">
+      <img src="https://img.shields.io/badge/Email-crescenzo.esposito%40outlook.it-d14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kappino&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+
 </div>
-👨‍💻 About Me
 
-- 🎓 **Background:** B.Sc. in Computer Science (Thesis on Emotion Recognition via Wearable Devices) & currently pursuing an M.Sc. in Cybersecurity.
-- 🔭 **Currently working on:** Advanced academic projects focusing on secure IoT edge-to-cloud architectures, PKI/mTLS implementation, and blockchain notarization.
-- 🌱 **Focus Areas:** Offensive/Defensive Security, Malware Analysis, Machine Learning, and Parallel Computing.
-- ⚙️ **Coding Philosophy:** Strict adherence to clean code, SOLID principles, Design Patterns, and secure coding practices.
-- 💬 **Ask me about:** C/C++, Python, Java, Cryptography, and Backend system design.
-- 📫 **Reach me at:** [crescenzo.esposito@outlook.it](mailto:crescenzo.esposito@outlook.it)
+---
 
-</p>
+### 🔬 Active Research & Core Pillars
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="90" valign="top">
+      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/cyber.png" width="75" alt="Cybersecurity" />
+    </td>
+    <td valign="top">
+      <b>IoT Security & Embedded Hardening</b><br/>
+      Zero-Trust communication for biomedical telemetry. Hardening microcontrollers (<b>ESP32</b>, <b>mbedTLS</b>) against MAC spoofing and MitM via <b>mutual TLS (mTLS v1.3)</b>, offline private PKI (<b>OpenSSL</b>, X.509 clientAuth), and payload signatures via <b>HMAC-SHA256</b>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90" valign="top">
+      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/robot.gif" width="75" alt="Robotics" />
+    </td>
+    <td valign="top">
+      <b>Assistive Robotics & Decision Engines (PNRR Age-IT)</b><br/>
+      Designed the event-driven decision planner for the <b>CARE assistive mobile robot</b> (Spoke 3, Deliverable D3.3). Transitioned rule evaluation from <code>durable_rules</code> (Rete) to <code>GoRules</code> (JDM decision tables) for clinical explainability. Authored the <b>ROS2</b> <code>care_planner</code> orchestration package.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90" valign="top">
+      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/eeg.png" width="75" alt="EEG Signal Processing" />
+    </td>
+    <td valign="top">
+      <b>Biomedical Signal Processing & Machine Learning</b><br/>
+      First author of a clinical study on 21 schizophrenia subjects using 14-channel wireless EEG (Emotiv Epoc X @ 256 Hz). MATLAB preprocessing via <b>PICARD ICA</b> artifact removal and <b>Scikit-learn</b> classifiers (MLP reaching <b>97.2% accuracy</b>). <b>Best Student Paper Award Finalist at IAS-19</b> (in press, Springer Nature LNNS).
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90" valign="top">
+      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/homelab.png" width="75" alt="Homelab" />
+    </td>
+    <td valign="top">
+      <b>Distributed Trust & Infrastructure</b><br/>
+      Smart contract development in <b>Solidity (EVM / Ganache)</b> for immutable telemetry hashing and GDPR auditability. Self-hosted <b>Proxmox homelab</b> with Dockerized microservices for network experimentation and attack simulations.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Languages, Protocols & Frameworks
+
+<div align="center">
+
+  <!-- Core Languages -->
+  <table border="0">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br/>
+        <sub><b>C</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br/>
+        <sub><b>C++</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" /><br/>
+        <sub><b>Solidity</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" /><br/>
+        <sub><b>Swift</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br/>
+        <sub><b>Bash</b></sub>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Systems, Security & Robotics -->
+  <table border="0">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS / ROS2" /><br/>
+        <sub><b>ROS2 / ROS</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/>
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br/>
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="ESP32 / Embedded" /><br/>
+        <sub><b>ESP32 / mbedTLS</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" /><br/>
+        <sub><b>MATLAB</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br/>
+        <sub><b>Git</b></sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### 🏆 Honors, Awards & Publications
+
+- 🎖️ **Finalist – Best Student Paper Award** · *19th International Conference on Intelligent Autonomous Systems (IAS-19)*  
+  *Emotion Recognition by EEG and Physiological Data in Patients with Schizophrenia: A Study with Wearable Devices* (First Author, in press with Springer Nature LNNS).
+- 🥇 **Best App Award "Alfredo Petrosino"** · *Università Parthenope & Apple Developer Academy network (May 2023)*  
+  Awarded for *Virtual Pong*, real-time multiplayer iOS game utilizing CoreMotion sensor fusion.
