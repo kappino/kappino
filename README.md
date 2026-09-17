@@ -150,7 +150,19 @@
 
 ### 🏆 Honors, Awards & Publications
 
-- 🎖️ **Finalist – Best Student Paper Award** · *19th International Conference on Intelligent Autonomous Systems (IAS-19)*  
+- 🎖️ **Finalist – Best Student Paper Award** · *19th International Conference on Intelligent Autonomous Systems (IAS-19)*
   *Emotion Recognition by EEG and Physiological Data in Patients with Schizophrenia: A Study with Wearable Devices* (First Author, in press with Springer Nature LNNS).
-- 🥇 **Best App Award "Alfredo Petrosino"** · *Università Parthenope & Apple Developer Academy network (May 2023)*  
+- 🥇 **Best App Award "Alfredo Petrosino"** · *Università Parthenope & Apple Developer Academy network (May 2023)*
   Awarded for *Virtual Pong*, real-time multiplayer iOS game utilizing CoreMotion sensor fusion.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Currently exploring opportunities in **IoT security research**, **assistive robotics**, and **embedded systems hardening**. Open to thesis collaborations, research internships, and contract work in Zero-Trust architecture for medical/robotic devices.
+
+📫 Reach me at **crescenzo.esposito@outlook.it** or connect on [LinkedIn](https://linkedin.com/in/crescenzo-esposito).
+
+</div>
