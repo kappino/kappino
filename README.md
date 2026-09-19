@@ -31,7 +31,7 @@
 - **Healthcare Robotics (ROS2):** decision engine and `care_planner` package with GoRules JDM priority overrides for CARE robot.
 - **Embedded & RTOS:** C/C++ firmware on STM32 (ARM Cortex-M) and ESP32 with ChibiOS RTOS, FreeRTOS, and POSIX concurrency.
 - **Biomedical Signal ML:** Clinical 14-ch wireless EEG artifact rejection (PICARD-ICA) and classification (97.2% MLP, IAS-19 Finalist).
-- **Systems & Homelab:** Proxmox VE hypervisor (GTX 1070 passthrough) over encrypted Tailscale mesh hosting Immich and local services.
+- **Systems & Homelab:** Proxmox VE hypervisor over encrypted Tailscale mesh hosting Immich and local services.
 
 ---
 
@@ -44,12 +44,10 @@
   <img src="https://img.shields.io/badge/ROS2_Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2" />
   <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/STM32_ARM-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32_mbedTLS-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/Tailscale-24292E?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
