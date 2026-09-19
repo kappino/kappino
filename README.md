@@ -55,7 +55,7 @@
 ### Selected Honors
 
 - **Best Student Paper Award Finalist** — *IAS-19 (Springer Nature LNNS)* · EEG emotion classification on schizophrenia patients.
-- **Best App Award "Alfredo Petrosino"** — *Apple Developer Academy Network & UniParthenope (2023)* · *Virtual Pong* iOS IMU motion engine.
+- **Best App Award "Alfredo Petrosino"** — *Apple Ios Foundation & UniParthenope (2023)* · *Virtual Pong* iOS IMU motion engine.
 
 ---
 
