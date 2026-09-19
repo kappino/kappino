@@ -1,168 +1,208 @@
 <div align="center">
 
-  <!-- Header with Hello Chibi Avatar -->
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/Hello.png" width="135" alt="Crescenzo Avatar" />
-      </td>
-      <td align="left" valign="middle">
-        <h1>Hi 👋, I'm <span style="color: #4cc9f0;">Crescenzo Esposito</span></h1>
-        <p>
-          <b>M.Sc. Student in Cybersecurity @ University of Salerno</b> • <b>Graduate Researcher (PNRR Age-IT)</b><br/>
-          <i>Architecting Secure-by-Design IoT Systems, Robotics Middleware (ROS2) & Distributed Trust</i>
-        </p>
-      </td>
-    </tr>
-  </table>
+<!-- Konsole Window Header -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#121215" style="border: 1px solid #27272a; border-radius: 12px; padding: 18px 24px;">
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <!-- Left: Konsole Dots -->
+          <td align="left" width="60" valign="middle">
+            <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #ef4444;"></span>&nbsp;
+            <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #eab308;"></span>&nbsp;
+            <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #10b981;"></span>
+          </td>
+          <!-- Center: Title -->
+          <td align="center" valign="middle">
+            <code style="color: #71717a; font-size: 11px;">kappino@portfolio: ~ (bash 5.2)</code>
+          </td>
+          <!-- Right: Status indicator -->
+          <td align="right" width="60" valign="middle">
+            <code style="color: #10b981; font-size: 11px; font-weight: bold;">● ONLINE</code>
+          </td>
+        </tr>
+      </table>
+      <hr style="border: none; border-top: 1px solid #27272a; margin: 12px 0 16px 0;" />
+      <!-- Content Header -->
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left" valign="middle">
+            <h1 style="color: #ffffff; margin: 0 0 4px 0; font-size: 26px; letter-spacing: -0.5px;">
+              Crescenzo Esposito <span style="color: #38bdf8; font-size: 16px; font-weight: normal; font-family: monospace;">/ kappino</span>
+            </h1>
+            <p style="color: #a1a1aa; margin: 0; font-size: 13px; line-height: 1.5;">
+              <b>M.Sc. Computer Science (Cybersecurity) @ University of Salerno</b><br/>
+              <i>Bare-Metal Firmware · Zero-Trust IoT Hardening · Robotics Middleware (ROS2) · Biomedical ML</i>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-  <!-- Call-to-action & Social Badges -->
-  <p>
-    <a href="https://kappino.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-kappino.github.io-4cc9f0?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/crescenzo-esposito" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Crescenzo_Esposito-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <a href="mailto:crescenzo.esposito@outlook.it">
-      <img src="https://img.shields.io/badge/Email-crescenzo.esposito%40outlook.it-d14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kappino&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </p>
+<!-- Action Badges (Custom Cyber Palette: Sky & Slate) -->
+<p>
+  <a href="https://kappino.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_TERMINAL-kappino.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=09090b" alt="Live Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/crescenzo-esposito" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-crescenzo--esposito-0284c7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>&nbsp;
+  <a href="mailto:crescenzo.esposito@outlook.it">
+    <img src="https://img.shields.io/badge/DIRECT_CHANNEL-crescenzo.esposito%40outlook.it-18181b?style=flat-square&logo=microsoftoutlook&logoColor=38bdf8" alt="Email" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kappino&label=TELEMETRY%20VIEWS&color=0284c7&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-### 🔬 Active Research & Core Pillars
+### Core Engineering Domains
 
-<table border="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="center" width="90" valign="top">
-      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/cyber.png" width="75" alt="Cybersecurity" />
+    <td width="30" valign="top" align="center">
+      <code style="color: #38bdf8; font-size: 13px; font-weight: bold;">::</code>
     </td>
     <td valign="top">
-      <b>IoT Security & Embedded Hardening</b><br/>
-      Zero-Trust communication for biomedical telemetry. Hardening microcontrollers (<b>ESP32</b>, <b>mbedTLS</b>) against MAC spoofing and MitM via <b>mutual TLS (mTLS v1.3)</b>, offline private PKI (<b>OpenSSL</b>, X.509 clientAuth), and payload signatures via <b>HMAC-SHA256</b>.
+      <b style="color: #ffffff;">Zero-Trust PKI & Embedded Security</b>
+      <br/>
+      <span style="color: #a1a1aa; font-size: 12px; line-height: 1.5;">
+        Bidirectional <b>mTLS v1.3</b> authentication on bare-metal ESP32, offline private Root CA (4096-bit RSA, X.509 clientAuth), and hardware-enforced <b>HMAC-SHA256</b> verification dropping unauthenticated telemetry in &lt;210ms. On-chain proof of existence via EVM smart contracts.
+      </span>
+      <br/>
+      <code style="color: #38bdf8; font-size: 10px;">mTLS v1.3 · X.509 · HMAC-SHA256 · OpenSSL · Mosquitto · Solidity</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="90" valign="top">
-      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/robot.gif" width="75" alt="Robotics" />
+    <td width="30" valign="top" align="center">
+      <code style="color: #10b981; font-size: 13px; font-weight: bold;">::</code>
     </td>
     <td valign="top">
-      <b>Assistive Robotics & Decision Engines (PNRR Age-IT)</b><br/>
-      Designed the event-driven decision planner for the <b>CARE assistive mobile robot</b> (Spoke 3, Deliverable D3.3). Transitioned rule evaluation from <code>durable_rules</code> (Rete) to <code>GoRules</code> (JDM decision tables) for clinical explainability. Authored the <b>ROS2</b> <code>care_planner</code> orchestration package.
+      <b style="color: #ffffff;">Autonomous Robotics & Deterministic Runtimes (PNRR Age-IT)</b>
+      <br/>
+      <span style="color: #a1a1aa; font-size: 12px; line-height: 1.5;">
+        Engineered the event-driven decision engine for the CARE assistive mobile robot (Spoke 3, Deliverable D3.3). Replaced non-deterministic Rete logic with auditable <b>GoRules JDM decision tables</b>, implementing the <b>ROS2 Humble</b> <code>care_planner</code> with life-safety emergency overrides.
+      </span>
+      <br/>
+      <code style="color: #10b981; font-size: 10px;">ROS2 Humble · GoRules JDM · FSM Priority Resolver · Python · Docker</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="90" valign="top">
-      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/eeg.png" width="75" alt="EEG Signal Processing" />
+    <td width="30" valign="top" align="center">
+      <code style="color: #f59e0b; font-size: 13px; font-weight: bold;">::</code>
     </td>
     <td valign="top">
-      <b>Biomedical Signal Processing & Machine Learning</b><br/>
-      First author of a clinical study on 21 schizophrenia subjects using 14-channel wireless EEG (Emotiv Epoc X @ 256 Hz). MATLAB preprocessing via <b>PICARD ICA</b> artifact removal and <b>Scikit-learn</b> classifiers (MLP reaching <b>97.2% accuracy</b>). <b>Best Student Paper Award Finalist at IAS-19</b> (in press, Springer Nature LNNS).
+      <b style="color: #ffffff;">Embedded Systems & Real-Time Firmware</b>
+      <br/>
+      <span style="color: #a1a1aa; font-size: 12px; line-height: 1.5;">
+        Bare-metal C/C++ development on 32-bit <b>ARM Cortex-M (STM32)</b> and ESP32 with <b>ChibiOS RTOS</b> & <b>FreeRTOS</b> scheduling. Hardware sensor bus interfacing (I2C/SPI/PWM). Multi-process POSIX networking architecture in C11 with atomic BSD <b>flock</b> synchronization (0 Valgrind leaks).
+      </span>
+      <br/>
+      <code style="color: #f59e0b; font-size: 10px;">STM32 · ARM Cortex-M · FreeRTOS · ChibiOS · C11 POSIX · Valgrind</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="90" valign="top">
-      <img src="https://raw.githubusercontent.com/kappino/kappino.github.io/main/public/chibi/homelab.png" width="75" alt="Homelab" />
+    <td width="30" valign="top" align="center">
+      <code style="color: #c084fc; font-size: 13px; font-weight: bold;">::</code>
     </td>
     <td valign="top">
-      <b>Distributed Trust & Infrastructure</b><br/>
-      Smart contract development in <b>Solidity (EVM / Ganache)</b> for immutable telemetry hashing and GDPR auditability. Self-hosted <b>Proxmox homelab</b> with Dockerized microservices for network experimentation and attack simulations.
+      <b style="color: #ffffff;">Biomedical ML & Clinical Signal Processing</b>
+      <br/>
+      <span style="color: #a1a1aa; font-size: 12px; line-height: 1.5;">
+        First-author clinical study on 21 schizophrenia patients using 14-channel wireless EEG (256 Hz). Artifact decontamination via <b>PICARD ICA</b>, Welch PSD band extraction, and supervised classification via <b>MLP reaching 97.2% accuracy</b> (Best Student Paper Finalist @ IAS-19, Springer Nature LNNS).
+      </span>
+      <br/>
+      <code style="color: #c084fc; font-size: 10px;">PICARD ICA · MLP (97.2%) · Scikit-learn · EEGLAB · MATLAB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="30" valign="top" align="center">
+      <code style="color: #38bdf8; font-size: 13px; font-weight: bold;">::</code>
+    </td>
+    <td valign="top">
+      <b style="color: #ffffff;">Zero-Expose Homelab & Systems Testbed</b>
+      <br/>
+      <span style="color: #a1a1aa; font-size: 12px; line-height: 1.5;">
+        Bare-metal <b>Proxmox VE</b> hypervisor with GTX 1070 GPU passthrough, interconnected across an encrypted <b>Tailscale WireGuard</b> mesh with 0 open WAN ports. Running isolated LXC containers: Pi-hole DNS sinkhole, FastAPI WAL engine, <b>Immich</b> self-hosted AI photos, and Home Assistant.
+      </span>
+      <br/>
+      <code style="color: #38bdf8; font-size: 10px;">Proxmox VE · Debian 12 · Tailscale Mesh · Immich (pgvector) · Pi-hole</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Languages, Protocols & Frameworks
+### Toolchains & Stack
 
 <div align="center">
 
-  <!-- Core Languages -->
-  <table border="0">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br/>
-        <sub><b>C</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br/>
-        <sub><b>C++</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/>
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" /><br/>
-        <sub><b>Solidity</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" /><br/>
-        <sub><b>Swift</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br/>
-        <sub><b>Bash</b></sub>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Systems, Security & Robotics -->
-  <table border="0">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS / ROS2" /><br/>
-        <sub><b>ROS2 / ROS</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/>
-        <sub><b>Linux</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br/>
-        <sub><b>Docker</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="ESP32 / Embedded" /><br/>
-        <sub><b>ESP32 / mbedTLS</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" /><br/>
-        <sub><b>MATLAB</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br/>
-        <sub><b>Git</b></sub>
-      </td>
-    </tr>
-  </table>
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr align="center">
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">C11</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">C++</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">Python</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS2" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">ROS2</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">Linux</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">Docker</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">STM32</code>
+    </td>
+    <td width="75">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">MATLAB</code>
+    </td>
+    <td width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="32" height="32" /><br/>
+      <code style="font-size: 10px; color: #a1a1aa;">Git</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### 🏆 Honors, Awards & Publications
+### Academic Publications & Distinctions
 
-- 🎖️ **Finalist – Best Student Paper Award** · *19th International Conference on Intelligent Autonomous Systems (IAS-19)*
-  *Emotion Recognition by EEG and Physiological Data in Patients with Schizophrenia: A Study with Wearable Devices* (First Author, in press with Springer Nature LNNS).
-- 🥇 **Best App Award "Alfredo Petrosino"** · *Università Parthenope & Apple Developer Academy network (May 2023)*
-  Awarded for *Virtual Pong*, real-time multiplayer iOS game utilizing CoreMotion sensor fusion.
+- <b>Finalist — Best Student Paper Award</b> · <i>19th International Conference on Intelligent Autonomous Systems (IAS-19)</i><br/>
+  <span style="color: #a1a1aa; font-size: 12px;">"Emotion Recognition by EEG and Physiological Data in Patients with Schizophrenia: A Study with Wearable Devices" · Springer Nature LNNS Series (First Author).</span>
+- <b>Best App Award "Alfredo Petrosino"</b> · <i>Apple Developer Academy Network & UniParthenope (2023)</i><br/>
+  <span style="color: #a1a1aa; font-size: 12px;">Awarded for Virtual Pong: high-rate CoreMotion IMU sensor fusion and real-time multiplayer dynamics on iOS.</span>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+```bash
+# Verify handshake & explore live testbed telemetry
+$ curl -sSL https://kappino.github.io
+```
 
-Currently exploring opportunities in **IoT security research**, **assistive robotics**, and **embedded systems hardening**. Open to thesis collaborations, research internships, and contract work in Zero-Trust architecture for medical/robotic devices.
-
-📫 Reach me at **crescenzo.esposito@outlook.it** or connect on [LinkedIn](https://linkedin.com/in/crescenzo-esposito).
+<sub>Strict Zero-Trust architecture · No third-party trackers · Designed with Vite, React & Tailwind</sub>
 
 </div>
