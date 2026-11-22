@@ -13,13 +13,7 @@
 ---
 
 <p>
-  <a href="https://kappino.me" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-kappino.me-38bdf8?style=flat-square&labelColor=1e293b" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/crescenzo-esposito" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-crescenzo--esposito-0284c7?style=flat-square&labelColor=1e293b" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:crescenzo.esposito@outlook.it">
-    <img src="https://img.shields.io/badge/email-outlook.it-475569?style=flat-square&labelColor=1e293b" alt="Email" />
-  </a>
+  <a href="https://kappino.me" target="_blank"><img src="https://img.shields.io/badge/portfolio-kappino.me-0ea5e9?style=flat-square&labelColor=1e293b" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/crescenzo-esposito" target="_blank"><img src="https://img.shields.io/badge/linkedin-crescenzo--esposito-0284c7?style=flat-square&labelColor=1e293b" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:crescenzo.esposito@outlook.it"><img src="https://img.shields.io/badge/email-outlook.it-475569?style=flat-square&labelColor=1e293b" alt="Email" /></a>
 </p>
